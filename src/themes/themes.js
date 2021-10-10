@@ -253,6 +253,11 @@ const themes = {
       quote_color: "353535",
       author_color: "353535",
       bg_color: "B3E0D6"
+    },
+    "github_dark": {
+      quote_color: "58A6FF",
+      author_color: "C3D1D9",
+      bg_color: "0D1117",
     }
   };
   
